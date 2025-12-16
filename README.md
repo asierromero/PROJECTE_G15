@@ -126,20 +126,19 @@ graph LR
         A[DHT11] --> B[Arduino]
         C[HC-SR04] --> B
         D[Servo] --> B
-        B --> E[LoRa TX]
     end
     
     subgraph "📡 COMUNICACIÓN"
-        E -- "433MHz<br/>2km alcance" --> F
+        B -- "433MHz<br/>2km alcance" --> E
     end
     
     subgraph "🌍 TIERRA"
-        F[LoRa RX] --> G[Arduino]
-        G --> H[Python GUI]
-        H --> I[Gráfica Temperatura/Humedad]
-        H --> J[Gráfica Radar]
-        H --> K[Orbita satélite 2D]
-        H --> L[Observaciones]
+        E[LoRa RX] --> F[Arduino]
+        F --> G[Python]
+        G --> H[Gráfica Temperatura/Humedad]
+        G --> I[Gráfica Radar]
+        G --> J[Orbita satélite 2D]
+        G --> K[Observaciones]
     end
     
     style A fill:#FF6B6B,color:#fff
@@ -155,7 +154,6 @@ graph LR
     style I fill:#FF6B6B,color:#fff
     style J fill:#4ECDC4,color:#fff
     style K fill:#FFD166,color:#fff
-    style L fill:#9C27B0,color:#fff
 ```
 
 ## 👥 Integrantes del Equipo
