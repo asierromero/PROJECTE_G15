@@ -6,7 +6,9 @@ ASIER                              LUCIA                                MIGUEL
 ## Descripcion del proyecto 
 
 *CARACTERÍSTICAS PRINCIPALES*
+
 <div align="left">
+  
 - Sistema satélite-tierra con comunicación LoRa
   - Tecnología LoRa SX1276 a 433 MHz 
   - Validación de datos mediante checksum
