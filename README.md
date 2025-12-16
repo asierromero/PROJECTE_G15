@@ -30,7 +30,7 @@ https://drive.google.com/file/d/1Vp3Mgnz5NVvSKLzOE6YZtBhTxNeMwWKn/view?usp=shari
 
 
 
-# 🛰️ Sistema Satelital - Grupo 15
+# 🛰️ Sistema Satelital: Grupo 15
 
 <div align="center">
 
@@ -228,7 +228,7 @@ Este proyecto se distribuye para fines educativos.
 **Año académico:** 2025  
 **Última actualización:** Diciembre 2025
 
-[⬆️ Volver al inicio](#-sistema-satelital---grupo-15)
+[⬆️ Volver al inicio](#-sistema-satelital:-grupo-15)
 
 </div>
 
