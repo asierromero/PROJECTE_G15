@@ -5,7 +5,7 @@ ASIER                              LUCIA                                MIGUEL
 
 ## Descripcion del proyecto 
 
-*CARACTERÍSTICAS PRINCIPALES*
+**CARACTERÍSTICAS PRINCIPALES**
 
 <div align="left">
   
@@ -67,29 +67,7 @@ VIDEO V4:
 
 
 
-
-
-
-**Sistema de comunicación satélite-tierra con tecnología LoRa**  
-
-[🎥 Videos de las versiones](#-videos-de-las-versiones) · [📡 Protocolo de aplicación](#-protocolo-de-comunicación) · [🏗️ Arquitectura del Sistema](#️-arquitectura-del-sistema) · [📁 Estructura del Proyecto](#-estructura-del-proyecto)
-
-</div>
-
-## 🎥 Videos de las versiones
-
-<div align="center">
-
-| Versión | Video | Estado | Funcionalidades |
-|---------|-------|--------|----------------|
-| **V1** | [![Version 1](https://img.shields.io/badge/Watch-FF6B6B?style=for-the-badge)](https://drive.google.com/file/d/1L8MmuHGUYzk3Fw5PDx3Sk3lThohy9duL/view) | ✅ Completado | Comunicación básica + DHT11 |
-| **V2** | [![Version 2](https://img.shields.io/badge/Watch-4ECDC4?style=for-the-badge)](https://drive.google.com/file/d/17cMnbxN7gR1Ks_FBl84Vf93BH628MKZ-/view) | ✅ Completado | Sensor HC-SR04 + Radar |
-| **V3** | [![Version 3](https://img.shields.io/badge/Watch-FFD166?style=for-the-badge)](https://drive.google.com/file/d/1Vp3Mgnz5NVvSKLzOE6YZtBhTxNeMwWKn/view) | ✅ Completado | LoRa + Órbita 2D |
-| **V4** | [![Version Final](https://img.shields.io/badge/Watch-06D6A0?style=for-the-badge)](#) | ✅ Completado | Sistema completo + mejoras |
-
-</div>
-
-## 🏗️ Arquitectura del Sistema
+**Estructura del Proyecto**
 
 ```mermaid
 graph LR
@@ -127,92 +105,10 @@ graph LR
     style K fill:#FFD166,color:#fff
 ```
 
-## 👥 Integrantes del Equipo
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" colspan="3">
-      <h3>💻<strong>Los desarrolladores</strong>💻</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong> Asier Romero</strong><br>
-    </td>
-    <td align="center">
-      <strong> Lucía Vega</strong><br>
-    </td>
-    <td align="center">
-      <strong> Miguel Fernández</strong><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <em>Grupo 15 - Sistema Satelital</em>
-    </td>
-  </tr>
-</table>
-</div>
 
 
-## 📁 Estructura del Proyecto
-
-```
-🌐 SISTEMA_SATELITAL/
-├── 🛰️ Codigo_Satelite/
-│   ├── ⚡ satelite_final.ino
-│   └── 📚 librerias/
-│
-├── 🌍 Codigo_Estacion_Tierra/
-│   ├── ⚡ estacion_tierra_final.ino
-│   └── 📚 librerias/
-│
-├── 🐍 Interfaz_Python/
-│   ├── 🎮 interfaz_final.py
-│   ├── 📊 graficas.py
-│   ├── 📡 comunicacion.py
-│   └── 📝 logging_sistema.py
-│
-├── 🧪 Tests_Unitarios/
-│   ├── 🌡️ test_temperatura.ino
-│   ├── 📶 test_comunicacion.ino
-│   ├── 📏 test_proximidad.ino
-│   └️ 🛰️ test_orbita.ino
-│
-├── 📚 Documentacion/
-│   ├── 🔌 esquemas_circuitos.pdf
-│   ├── 📡 protocolo_comunicacion.md
-│   └️ 📖 manual_usuario.pdf
-│
-└── 🎥 Media/
-    ├── 📐 diagramas/
-    ├️ 📸 fotos_montaje/
-    └️ 🎬 videos/
-```
 
 
-## 📚 Licencia
-
-<div align="center">
-
-**Licencia Académica**  
-Este proyecto se distribuye para fines educativos.  
-
-**© 2025 Grupo 15 - Sistema Satelital**
-
-</div>
-
----
-
-<div align="center">
-
-**Asignatura:** Ciencias de la computación 
-**Institución:** EETAC
-**Año académico:** 2025  
-**Última actualización:** Diciembre 2025
-
-[⬆️ Volver al inicio](#-sistema-satelital:-grupo-15)
 
 </div>
 
