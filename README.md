@@ -39,7 +39,6 @@ VIDEO V1:
 https://drive.google.com/file/d/1L8MmuHGUYzk3Fw5PDx3Sk3lThohy9duL/view?usp=drive_link
 
 
-
 ## Version 2:
 
 En aquest temps hem acabat el que ens faltaba per acabar de la versio 1 i hem començat la versio 2, tot i que encara ens falten bastantes coses i els codis no funcionen amb tot junt. Per aixo en el video nomes surt la versio 1 i el codi del test unitari que tenim de la versio 2 que si que funciona. 
@@ -51,9 +50,13 @@ https://drive.google.com/file/d/17cMnbxN7gR1Ks_FBl84Vf93BH628MKZ-/view?usp=shari
 ## Version 3:
 Tenim tot el que demana menys la gràfica de les òrbites ja que no acaba de surtir be a la interfaç. També com diem en el video ens falta arreglar petites coses de la interfaç i de l'alarma.
 
-Video V2:
+VIDEO V3:
 https://drive.google.com/file/d/1Vp3Mgnz5NVvSKLzOE6YZtBhTxNeMwWKn/view?usp=sharing
 
+## Version 4:
+
+
+VIDEO V4:
 
 
 
@@ -66,29 +69,6 @@ https://drive.google.com/file/d/1Vp3Mgnz5NVvSKLzOE6YZtBhTxNeMwWKn/view?usp=shari
 
 
 
-
-
-
-
-
-<div align="center">
-
-![System Architecture](https://img.shields.io/badge/Architecture-Satellite_Terrestrial-blueviolet)
-![Communication](https://img.shields.io/badge/Communication-LoRa_433MHz-009688)
-![Sensors](https://img.shields.io/badge/Sensors-DHT11_HC--SR04-FF9800)
-![Interface](https://img.shields.io/badge/Interface-Python_Tkinter-2196F3)
-![Status](https://img.shields.io/badge/Status-Completed-4CAF50)
-![Version](https://img.shields.io/badge/Version-4.0-9C27B0)
-![License](https://img.shields.io/badge/License-Academic-607D8B)
-
-<br />
-
-<img src="https://img.shields.io/badge/Arduino-UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3.8-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/LoRa-SX1276-00BCD4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Matplotlib-3D_Visualization-11557C?style=for-the-badge&logo=matplotlib" />
-
-<br />
 
 **Sistema de comunicación satélite-tierra con tecnología LoRa**  
 
@@ -108,15 +88,6 @@ https://drive.google.com/file/d/1Vp3Mgnz5NVvSKLzOE6YZtBhTxNeMwWKn/view?usp=shari
 | **V4** | [![Version Final](https://img.shields.io/badge/Watch-06D6A0?style=for-the-badge)](#) | ✅ Completado | Sistema completo + mejoras |
 
 </div>
-
-## 📡 Protocolo de Comunicación
-
-```
-# Formato Satélite→Tierra: 1:temp:hum|2:dist:ang|3:x:y:z|4:alarma|5:media|ORBIT|tiempo:x:y:z|6:ack
-
--> ack = acknowledgment (confirmación de recepción)
-```
-
 
 ## 🏗️ Arquitectura del Sistema
 
