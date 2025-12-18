@@ -1,4 +1,4 @@
-# 🛰️ PROJECTE Grup 15 🛰️
+# 🛰️ PROYECTO DE COMUNICACIÓN SATÉLITE-TIERRA  Grup 15 🛰️
 
 ## 👥 Integrantes del Equipo
 ASIER  LUCIA                                MIGUEL
@@ -8,9 +8,9 @@ ASIER  LUCIA                                MIGUEL
 
 
 
-## Descripcion del proyecto 
+## Descripción del proyecto 
 
-Este proyecto consiste en crear un sistema entre dos arduinos que representa uno la estacion de tierra y el otro el satelite. El objetivo es montar con el kit de arduino y programar un codigo que haga que el satelite capte una serie de datos, los envie a tierra y finalmente que la estacion de tierra los capte y con un codigo en python se pudan mostrar graficas en una interfaz.
+El proyecto consiste en un sistema de comunicación bidireccional entre un satélite simulado y una estación terrestre, implementado con dos módulos Arduino. El satélite captura datos mediante sensores y los transmite a la estación terrestre, donde una interfaz gráfica en Python visualiza la información en tiempo real.
 
 **CARACTERÍSTICAS PRINCIPALES**
 
@@ -37,24 +37,29 @@ Este proyecto consiste en crear un sistema entre dos arduinos que representa uno
 **Estructura del Proyecto**
 
 ```mermaid
-graph LR
+graph TB
     subgraph "🛰️ SATÉLITE"
-        A[DHT11] --> B[Arduino]
-        C[HC-SR04] --> B
-        D[Servo] --> B
+        A[DHT11 - Temperatura/Humedad] --> B[Arduino Satélite]
+        C[HC-SR04 - Distancia] --> B
+        D[Servo SG90 - Orientación] --> B
+        B --> E[Transmisor LoRa]
     end
     
     subgraph "📡 COMUNICACIÓN"
-        B -- "433MHz<br/>2km alcance" --> E
+        E -- "433 MHz · Protocolo estructurado" --> F[Receptor LoRa]
     end
     
-    subgraph "🌍 TIERRA"
-        E[LoRa RX] --> F[Arduino]
-        F --> G[Python]
-        G --> H[Gráfica Temperatura/Humedad]
-        G --> I[Gráfica Radar]
-        G --> J[Orbita satélite 2D]
-        G --> K[Observaciones]
+    subgraph "🌍 ESTACIÓN TERRESTRE"
+        F --> G[Arduino Tierra]
+        G --> H[Interfaz Python]
+        
+        H --> I[📊 Gráficas Tiempo Real]
+        H --> J[🔄 Control Satelital]
+        H --> K[🚨 Sistema de Alertas]
+        
+        I --> L[🌡️ Temperatura/Humedad]
+        I --> M[📍 Radar de Distancia]
+        I --> N[🛸 Órbita Satelital 2D]
     end
     
     style A fill:#FF6B6B,color:#fff
@@ -62,14 +67,12 @@ graph LR
     style D fill:#FFD166,color:#fff
     style B fill:#6C63FF,color:#fff
     style E fill:#2D2B55,color:#fff
-    
     style F fill:#2D2B55,color:#fff
-    style G fill:#6C63FF,color:#fff
-    style H fill:#06D6A0,color:#fff
-    
-    style I fill:#FF6B6B,color:#fff
-    style J fill:#4ECDC4,color:#fff
-    style K fill:#FFD166,color:#fff
+    style G fill:#2D2B55,color:#fff
+    style H fill:#6C63FF,color:#fff
+    style L fill:#06D6A0,color:#fff
+    style M fill:#FF6B6B,color:#fff
+    style N fill:#4ECDC4,color:#fff
 ```
 
 
@@ -107,6 +110,14 @@ https://drive.google.com/file/d/1Vp3Mgnz5NVvSKLzOE6YZtBhTxNeMwWKn/view?usp=shari
 Nosaltres no hem pogut fer gaire cosa per aquesta ultima versió ja que hem estat quasi fins l'ultim dia hem estat arreglant petits errors de les versions anteriors que teniem i que han anat apareixen a mesura que anavem implementant mes coses. Per tant, nomes hem pogut fer una interfaç millorada, amb moltes opcions, mes botons i més visual, on hem agegit les mitjanes de la humitat. 
 
 VIDEO V4:
+
+
+Licencia
+Este proyecto se desarrolla con fines educativos. Todos los derechos reservados al Grupo 15.
+
+Proyecto académico · Ciéncias Computacionales
+
+
 
 
 
