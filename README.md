@@ -45,7 +45,7 @@ graph LR
     end
     
     subgraph "📡 COMUNICACIÓN"
-        B -- "433MHz<br/>2km alcance" --> E
+        B  --> E
     end
     
     subgraph "🌍 TIERRA"
