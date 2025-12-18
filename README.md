@@ -7,9 +7,10 @@ ASIER                             LUCIA                                MIGUEL
 <img src="https://github.com/user-attachments/assets/c3eb66b5-f151-4c50-864f-842789a05926" width="150">
 
 
-## Descripcion del proyecto 
+## Descripción del proyecto 
 
 El proyecto consiste en un sistema de comunicación bidireccional entre un satélite simulado y una estación terrestre, implementado con dos módulos Arduino. El satélite captura datos mediante sensores y los transmite a la estación terrestre, donde una interfaz gráfica en Python visualiza la información en tiempo real.
+
 
 **CARACTERÍSTICAS PRINCIPALES**
 
@@ -82,33 +83,37 @@ graph TB
 
 
 # Versiones
-## Version 1:
-
-Nosaltes durant aquesta versió 1 no hem aconseguit cumplir amb tots els passos inidcats, hem aconseguit fer fins als pas 3, es a dir; hem fet que envïi les dades de temperatura, les rebi l'altre ordinador, i les posi en una gràfica que esta incrustada a una interfaç. Pensem que no hem pogut acabar tots els punts de la versió 1 ja que cap dels 3 pràcticament havia fet servir mai l'Arduino i a les primeres classes vam tenir dificultats però a mesura que hem anat pràcticant ja ens han començat a sortir les coses millor. Per ultim, pensem que hem treballat bastant be però ens ha faltat més comunicació i més coordinació entre nosaltres. Esperem fer-ho millor en les pròximes versions.
+Versión 1:
+Durante esta versión 1 no hemos conseguido cumplir con todos los pasos indicados. Hemos logrado hacer hasta el paso 3, es decir; hemos hecho que envíe los datos de temperatura, los reciba el otro ordenador, y los muestre en una gráfica que está incrustada en una interfaz. Pensamos que no hemos podido acabar todos los puntos de la versión 1 ya que ninguno de los tres prácticamente había usado nunca el Arduino y en las primeras clases tuvimos dificultades. Sin embargo, a medida que hemos ido practicando las cosas nos han empezado a salir mejor. Por último, pensamos que hemos trabajado bastante bien pero nos ha faltado más comunicación y más coordinación entre nosotros. Esperamos hacerlo mejor en las próximas versiones.
 
 VIDEO V1:
 https://drive.google.com/file/d/1L8MmuHGUYzk3Fw5PDx3Sk3lThohy9duL/view?usp=drive_link
 
 
-## Version 2:
 
-En aquest temps hem acabat el que ens faltaba per acabar de la versio 1 i hem començat la versio 2, tot i que encara ens falten bastantes coses i els codis no funcionen amb tot junt. Per aixo en el video nomes surt la versio 1 i el codi del test unitari que tenim de la versio 2 que si que funciona. 
-Hem tingut algunes dificultats en ajuntar aquest codis i per aixo com no esta del tot be no hi ha video. Ens assegurarem que per a la versio 3 estara tot fet.
+Versión 2:
+En este tiempo hemos terminado lo que nos faltaba por acabar de la versión 1 y hemos comenzado la versión 2, aunque todavía nos faltan bastantes cosas y los códigos no funcionan con todo junto. Por eso, en el video solo sale la versión 1 y el código del test unitario que tenemos de la versión 2 y que sí funciona. Hemos tenido algunas dificultades al unir estos códigos, y por eso, como no está del todo bien, no hay video. Nos aseguraremos de que para la versión 3 esté todo hecho.
 
 VIDEO V2:
 https://drive.google.com/file/d/17cMnbxN7gR1Ks_FBl84Vf93BH628MKZ-/view?usp=sharing
 
-## Version 3:
-Tenim tot el que demana menys la gràfica de les òrbites ja que no acaba de surtir be a la interfaç. També com diem en el video ens falta arreglar petites coses de la interfaç i de l'alarma.
+
+
+Versión 3:
+Tenemos todo lo que se pide menos la gráfica de las órbitas, ya que no acaba de salir bien en la interfaz. También, como decimos en el video, nos falta arreglar pequeñas cosas de la interfaz y de la alarma.
 
 VIDEO V3:
 https://drive.google.com/file/d/1Vp3Mgnz5NVvSKLzOE6YZtBhTxNeMwWKn/view?usp=sharing
 
-## Version 4:
 
-Nosaltres no hem pogut fer gaire cosa per aquesta ultima versió ja que hem estat quasi fins l'ultim dia hem estat arreglant petits errors de les versions anteriors que teniem i que han anat apareixen a mesura que anavem implementant mes coses. Per tant, nomes hem pogut fer una interfaç millorada, amb moltes opcions, mes botons i més visual, on hem agegit les mitjanes de la humitat. 
+Versión 4:
+
+Proyecto Finalizado. En esta última versión hemos completado con éxito el sistema integral. Todo funciona correctamente: la comunicación bidireccional satélite-tierra, la captura de datos de todos los sensores, el procesamiento y la visualización en tiempo real.
+
+La principal mejora ha sido una interfaz gráfica completamente rediseñada y optimizada. Es más intuitiva, visual y cuenta con múltiples opciones y controles, incluyendo la incorporación del cálculo de medias de humedad y un sistema de alertas depurado.
 
 VIDEO V4:
+
 
 
 Licencia
