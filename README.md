@@ -100,6 +100,7 @@ En este tiempo hemos terminado lo que nos faltaba por acabar de la versión 1 y 
 
 
 VIDEO V2:
+
 https://drive.google.com/file/d/17cMnbxN7gR1Ks_FBl84Vf93BH628MKZ-/view?usp=sharing
 
 
@@ -110,6 +111,7 @@ Tenemos todo lo que se pide menos la gráfica de las órbitas, ya que no acaba d
 
   
 VIDEO V3:
+
 https://drive.google.com/file/d/1Vp3Mgnz5NVvSKLzOE6YZtBhTxNeMwWKn/view?usp=sharing
 
 
@@ -121,9 +123,12 @@ Proyecto Finalizado. En esta última versión hemos completado con éxito el sis
 La principal mejora ha sido una interfaz gráfica completamente rediseñada y optimizada. Es más intuitiva, visual y cuenta con múltiples opciones y controles, incluyendo la incorporación del cálculo de medias de humedad y un sistema de alertas depurado.
 
 VIDEO V4:
+
 https://youtu.be/sOfQ_l44Q54
 
 
+
+__________________________________________________________________________________________________________________________________________________________________________
 
 Licencia
 Este proyecto se desarrolla con fines educativos. Todos los derechos reservados al Grupo 15.
