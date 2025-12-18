@@ -113,6 +113,7 @@ Proyecto Finalizado. En esta última versión hemos completado con éxito el sis
 La principal mejora ha sido una interfaz gráfica completamente rediseñada y optimizada. Es más intuitiva, visual y cuenta con múltiples opciones y controles, incluyendo la incorporación del cálculo de medias de humedad y un sistema de alertas depurado.
 
 VIDEO V4:
+https://youtu.be/sOfQ_l44Q54
 
 
 
