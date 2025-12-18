@@ -125,7 +125,7 @@ La principal mejora ha sido una interfaz gráfica completamente rediseñada y op
 
 VIDEO V4:
 
-https://youtu.be/sOfQ_l44Q54
+https://youtu.be/eCw8Vex8Cco
 
 
 
