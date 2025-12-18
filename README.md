@@ -106,6 +106,7 @@ https://drive.google.com/file/d/17cMnbxN7gR1Ks_FBl84Vf93BH628MKZ-/view?usp=shari
 
 
 **VERSIÓN 3:**
+
 Tenemos todo lo que se pide menos la gráfica de las órbitas, ya que no acaba de salir bien en la interfaz. También, como decimos en el video, nos falta arreglar pequeñas cosas de la interfaz y de la alarma.
 
 
