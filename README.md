@@ -107,6 +107,7 @@ https://drive.google.com/file/d/1Vp3Mgnz5NVvSKLzOE6YZtBhTxNeMwWKn/view?usp=shari
 Nosotros no hemos podido hacer mucho por esta ultima versión ya que hemos estado casi hasta el ultimo día arreglando pequeños errores de las versiones anteriores que teníamos y que han ido apareciendo a medida que íbamos implementando más cosas. Por tanto, sólo hemos podido hacer una interfaz mejorada, con muchas opciones, más botones y más visual, donde hemos agregado las medias de la humedad.
 
 VIDEO V4:
+https://youtu.be/sOfQ_l44Q54
 
 
 
