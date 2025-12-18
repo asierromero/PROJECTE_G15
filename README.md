@@ -5,6 +5,7 @@ ASIER                             LUCIA                                MIGUEL
 
 <img src="https://github.com/user-attachments/assets/b92bcb36-00b6-4f34-aa8e-21554eda813d" width="150">
 <img src="https://github.com/user-attachments/assets/c3eb66b5-f151-4c50-864f-842789a05926" width="150">
+<img src="https://github.com/user-attachments/assets/e3940387-dc94-4d4e-9738-79934ddfaced" width="150">
 
 
 ## DESCRIPCIÓN DEL PROYECTO
