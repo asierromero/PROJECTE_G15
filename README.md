@@ -1,9 +1,16 @@
 # 🛰️ PROJECTE Grup 15 🛰️
 
 ## 👥 Integrantes del Equipo
-ASIER                              LUCIA                                MIGUEL
+ASIER  LUCIA                                MIGUEL
+
+<img src="https://github.com/user-attachments/assets/b92bcb36-00b6-4f34-aa8e-21554eda813d" width="150">
+<img src="https://github.com/user-attachments/assets/c3eb66b5-f151-4c50-864f-842789a05926" width="150">
+
+
 
 ## Descripcion del proyecto 
+
+Este proyecto consiste en crear un sistema entre dos arduinos que representa uno la estacion de tierra y el otro el satelite. El objetivo es montar con el kit de arduino y programar un codigo que haga que el satelite capte una serie de datos, los envie a tierra y finalmente que la estacion de tierra los capte y con un codigo en python se pudan mostrar graficas en una interfaz.
 
 **CARACTERÍSTICAS PRINCIPALES**
 
@@ -11,7 +18,6 @@ ASIER                              LUCIA                                MIGUEL
   
 - Sistema satélite-tierra con comunicación LoRa
   - Tecnología LoRa SX1276 a 433 MHz 
-  - Validación de datos mediante checksum
 - Sensores integrados en satélite
   - DHT11(sensor) para temperatura y humedad
   - HC-SR04(sensor ultrasonidos) para medición de distancia
@@ -23,9 +29,8 @@ ASIER                              LUCIA                                MIGUEL
   - Múltiples tipos de mensaje (temperatura, humedad, distancia)
   - Sistema de control bidireccional
 - Sistema de alarmas y validación
-  - Detección de 3 medias consecutivas sobre límite en temperatura/humedad
   - Alarmas visuales y auditivas (LEDs y buzzer)
-  - Checksum para comprobar los datos
+  
 
 </div>
 
