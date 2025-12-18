@@ -1,14 +1,29 @@
 # 🛰️ PROYECTO DE COMUNICACIÓN SATÉLITE-TIERRA  Grup 15 🛰️
 
 ## 👥 Integrantes del Equipo
-ASIER  LUCIA                                MIGUEL
+ASIER                             LUCIA                                MIGUEL
+## 👥 Integrantes del Equipo
 
-<img src="https://github.com/user-attachments/assets/b92bcb36-00b6-4f34-aa8e-21554eda813d" width="150">
-<img src="https://github.com/user-attachments/assets/c3eb66b5-f151-4c50-864f-842789a05926" width="150">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin: 25px 0;">
+    <!-- Asier -->
+    <div style="text-align: center;">
+        <img src="https://github.com/user-attachments/assets/b92bcb36-00b6-4f34-aa8e-21554eda813d" 
+             width="150" 
+             height="150" 
+             style="border-radius: 50%; object-fit: cover; border: 4px solid #06D6A0; box-shadow: 0 6px 12px rgba(6, 214, 160, 0.3);">
+        <p style="margin-top: 10px; font-weight: bold; color: #06D6A0; font-size: 16px;">🌍 ASIER</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://github.com/user-attachments/assets/c3eb66b5-f151-4c50-864f-842789a05926" 
+             width="150" 
+             height="150" 
+             style="border-radius: 50%; object-fit: cover; border: 4px solid #6C63FF; box-shadow: 0 6px 12px rgba(108, 99, 255, 0.3);">
+        <p style="margin-top: 10px; font-weight: bold; color: #6C63FF; font-size: 16px;">🛰️ LUCÍA</p>
+    </div>
+    
+</div>
 
 
-
-## Descripción del proyecto 
 
 El proyecto consiste en un sistema de comunicación bidireccional entre un satélite simulado y una estación terrestre, implementado con dos módulos Arduino. El satélite captura datos mediante sensores y los transmite a la estación terrestre, donde una interfaz gráfica en Python visualiza la información en tiempo real.
 
