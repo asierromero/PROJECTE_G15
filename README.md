@@ -60,6 +60,7 @@ https://drive.google.com/file/d/1Vp3Mgnz5NVvSKLzOE6YZtBhTxNeMwWKn/view?usp=shari
 
 ## Version 4:
 
+Nosaltres no hem pogut fer gaire cosa per aquesta ultima versió ja que hem estat quasi fins l'ultim dia hem estat arreglant petits errors de les versions anteriors que teniem i que han anat apareixen a mesura que anavem implementant mes coses. Per tant, nomes hem pogut fer una interfaç millorada, amb moltes opcions, mes botons i més visual, on hem agegit les mitjanes de la humitat. 
 
 VIDEO V4:
 
