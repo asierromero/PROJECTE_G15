@@ -131,10 +131,7 @@ https://youtu.be/eCw8Vex8Cco
 
 __________________________________________________________________________________________________________________________________________________________________________
 
-Licencia
-Este proyecto se desarrolla con fines educativos. Todos los derechos reservados al Grupo 15.
 
-Proyecto académico · Ciéncias Computacionales
 
 
 
