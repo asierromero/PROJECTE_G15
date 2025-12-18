@@ -82,7 +82,7 @@ graph LR
 # Versiones
 ## Version 1:
 
-Nosaltes durant aquesta versió 1 no hem aconseguit cumplir amb tots els passos inidcats, hem aconseguit fer fins als pas 3, es a dir; hem fet que envïi les dades de temperatura, les rebi l'altre ordinador, i les posi en una gràfica que esta incrustada a una interfaç. Pensem que no hem pogut acabar tots els punts de la versió 1 ja que cap dels 3 pràcticament havia fet servir mai l'Arduino i a les primeres classes vam tenir dificultats però a mesura que hem anat pràcticant ja ens han començat a sortir les coses millor. Per ultim, pensem que hem treballat bastant be però ens ha faltat més comunicació i més coordinació entre nosaltres. Esperem fer-ho millor en les pròximes versions.
+Nosotros durante esta versión 1 no hemos conseguido cumplir con todos los pasos indicados, hemos conseguido dar hasta los pasos 3, es decir; hemos hecho que envíe los datos de temperatura, los reciba el otro ordenador, y los ponga en una gráfica que está incrustada en una interfaz. Pensamos que no hemos podido terminar todos los puntos de la versión 1 ya que ninguno de los 3 prácticamente había utilizado nunca Arduino y en las primeras clases tuvimos dificultades pero a medida que hemos ido practicando ya nos han empezado a salir las cosas mejor. Por ultimo, pensamos que hemos trabajado bastante bien pero nos ha faltado más comunicación y más coordinación entre nosotros. Esperamos hacerlo mejor en las próximas versiones.
 
 VIDEO V1:
 https://drive.google.com/file/d/1L8MmuHGUYzk3Fw5PDx3Sk3lThohy9duL/view?usp=drive_link
@@ -90,21 +90,21 @@ https://drive.google.com/file/d/1L8MmuHGUYzk3Fw5PDx3Sk3lThohy9duL/view?usp=drive
 
 ## Version 2:
 
-En aquest temps hem acabat el que ens faltaba per acabar de la versio 1 i hem començat la versio 2, tot i que encara ens falten bastantes coses i els codis no funcionen amb tot junt. Per aixo en el video nomes surt la versio 1 i el codi del test unitari que tenim de la versio 2 que si que funciona. 
-Hem tingut algunes dificultats en ajuntar aquest codis i per aixo com no esta del tot be no hi ha video. Ens assegurarem que per a la versio 3 estara tot fet.
+En este tiempo hemos terminado lo que nos faltaba para acabar de la version 1 y hemos empezado la version 2, aunque todavía nos faltan bastantes cosas y los códigos no funcionan con todo junto. Por eso en el video solo sale la version 1 y el código del test unitario que tenemos de la version 2 que sí funciona. 
+Hemos tenido algunas dificultades en juntar estos códigos y por eso como no está del todo bien no esta en el video. Nos aseguraremos que para la version 3 estará todo hecho.
 
 VIDEO V2:
 https://drive.google.com/file/d/17cMnbxN7gR1Ks_FBl84Vf93BH628MKZ-/view?usp=sharing
 
 ## Version 3:
-Tenim tot el que demana menys la gràfica de les òrbites ja que no acaba de surtir be a la interfaç. També com diem en el video ens falta arreglar petites coses de la interfaç i de l'alarma.
+Tenemos todo lo que menos pide la gráfica de las órbitas ya que no acaba de salir bien en la interfaz. También como decimos en el vídeo, nos falta arreglar pequeñas cosas de la interfaz y de la alarma.
 
 VIDEO V3:
 https://drive.google.com/file/d/1Vp3Mgnz5NVvSKLzOE6YZtBhTxNeMwWKn/view?usp=sharing
 
 ## Version 4:
 
-Nosaltres no hem pogut fer gaire cosa per aquesta ultima versió ja que hem estat quasi fins l'ultim dia hem estat arreglant petits errors de les versions anteriors que teniem i que han anat apareixen a mesura que anavem implementant mes coses. Per tant, nomes hem pogut fer una interfaç millorada, amb moltes opcions, mes botons i més visual, on hem agegit les mitjanes de la humitat. 
+Nosotros no hemos podido hacer mucho por esta ultima versión ya que hemos estado casi hasta el ultimo día arreglando pequeños errores de las versiones anteriores que teníamos y que han ido apareciendo a medida que íbamos implementando más cosas. Por tanto, sólo hemos podido hacer una interfaz mejorada, con muchas opciones, más botones y más visual, donde hemos agregado las medias de la humedad.
 
 VIDEO V4:
 
