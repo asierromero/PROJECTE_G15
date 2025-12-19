@@ -22,7 +22,7 @@ int pasoBarrido = 2;             // Incremento de ángulo por movimiento
 unsigned long ultimoMovimientoRadar = 0;         // Último momento que se movió el servo
 unsigned long ultimoEnvioRadar = 0;              // Último envío de datos del radar
 unsigned long intervaloMovimientoRadar = 1000;   // Cada cuánto mover el servo (ms)
-unsigned long intervaloEnvioRadar = 2000         // Cada cuánto enviar datos radar (ms)
+unsigned long intervaloEnvioRadar = 2000;       // Cada cuánto enviar datos radar (ms)
 bool modoRastreoActivado = true; // true=barrido, false=ángulo fijo
 int anguloFijo = 90;   
 
